@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f7f6;
+    background-color: #a3eaeffe;
     margin: 0;
     padding: 40px;
 }
@@ -48,4 +48,9 @@ h2 {
 
 .info-list li {
     margin-bottom: 6px;
+}
+
+h1{
+    color: rgb(29, 30, 31);
+    text-align: center;
 }
